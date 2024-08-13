@@ -1,6 +1,6 @@
 {
     "name": "blues-auth-lib",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "module",
     "main": "dist/SSOClient.js",
     "types": "dist/SSOClient.d.ts",
